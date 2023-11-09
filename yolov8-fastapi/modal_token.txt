@@ -1,0 +1,3 @@
+modal token set --token-id ak-eE2VDnNDtJEMSwIzO70hVf --token-secret as-xoJxwtnajTCVMlm1ly8wGc --profile=cognizenorg
+
+modal profile activate cognizenorg

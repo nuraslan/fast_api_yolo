@@ -1,0 +1,1 @@
+2023-11-09 14:15:35.721 | INFO     | main:img_object_detection_to_json:155 - results: {'detect_objects': [{'name': 'cat', 'confidence': 0.9262253642}, {'name': 'dog', 'confidence': 0.9109069109}], 'detect_objects_names': 'cat, dog'}
